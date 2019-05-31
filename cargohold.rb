@@ -32,3 +32,5 @@ ch.load_and_report(sc3)
 first_unloaded = ch.unload
 print 'The first Suitcase off the plane is....'
 puts first_unloaded.object_id
+# puts CargoHold.ancestors
+
